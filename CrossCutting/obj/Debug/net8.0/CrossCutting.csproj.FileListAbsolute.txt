@@ -1,0 +1,17 @@
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\CrossCutting.deps.json
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\CrossCutting.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\CrossCutting.pdb
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\Domain.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\Domain.pdb
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.AssemblyInfo.cs
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCut.C7E4F570.Up2Date
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\refint\CrossCutting.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.pdb
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\ref\CrossCutting.dll
