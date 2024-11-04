@@ -4,10 +4,12 @@ namespace Domain.Abstractions
 {
     public interface IUserRepository
     {
-        Task<User> GetByEmailAsync(string email);
-        Task<IEnumerable<User>> GetAllAsync();
-        Task AddAsync(User user);
-        Task UpdateAsync(User user);
-        Task DeleteAsync(User user);
+        Task<User> GetByIdAsync(int id, CancellationToken cancellationToken);
+        Task<User> GetByEmailAsync(string email, CancellationToken cancellationToken);
+        Task<IEnumerable<User>> GetAllAsync(CancellationToken cancellationToken);
+        Task AddAsync(User user, CancellationToken cancellationToken);
+        void Update(User user);
+        void Delete(User user);
+        Task<bool> UseryExistAsync(string email, CancellationToken cancellationToken);
     }
 }

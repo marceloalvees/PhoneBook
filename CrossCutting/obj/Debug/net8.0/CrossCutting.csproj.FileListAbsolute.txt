@@ -15,3 +15,6 @@ C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting
 C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\refint\CrossCutting.dll
 C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.pdb
 C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\ref\CrossCutting.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\Application.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\bin\Debug\net8.0\Application.pdb
+C:\Users\marce\Desktop\PlanIt\PlantIt\CrossCutting\obj\Debug\net8.0\CrossCutting.sourcelink.json

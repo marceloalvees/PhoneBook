@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -39,7 +40,7 @@ namespace Domain.Entities
             Email = email;
         }
 
-        public void Validate(string firstName, string lastName, string gender, string email)
+        private void Validate(string firstName, string lastName, string gender, string email)
         {
             DomainValidation.When(string.IsNullOrEmpty(firstName), "First name is required");
             DomainValidation.When(firstName.Length < 3, "Invalid First name, too short, minimum 3 characters");
@@ -48,7 +49,11 @@ namespace Domain.Entities
             DomainValidation.When(email.Length < 6, "Invalid Email, too short, minimum 6 characters");
             DomainValidation.When(!email.Contains("@"), "Invalid Email, must contain @");
             DomainValidation.When(string.IsNullOrEmpty(gender), "Gender is required");
-            DomainValidation.When(string.IsNullOrEmpty(Password), "Password is required");
+        }
+
+        public void ChangeStatus(bool isActive)
+        {
+            IsActive = isActive;
         }
     }
 }

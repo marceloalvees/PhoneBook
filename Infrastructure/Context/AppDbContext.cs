@@ -10,10 +10,12 @@ namespace Infrastructure.Context
         { }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfiguration(new UserConfiguration());
+            builder.ApplyConfiguration(new ContactConfiguration());
         }
     }
 }

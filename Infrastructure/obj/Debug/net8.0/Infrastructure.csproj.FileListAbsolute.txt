@@ -13,3 +13,4 @@ C:\Users\marce\Desktop\PlanIt\PlantIt\Infrastructure\obj\Debug\net8.0\Infrastruc
 C:\Users\marce\Desktop\PlanIt\PlantIt\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\marce\Desktop\PlanIt\PlantIt\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\marce\Desktop\PlanIt\PlantIt\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\marce\Desktop\PlanIt\PlantIt\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
